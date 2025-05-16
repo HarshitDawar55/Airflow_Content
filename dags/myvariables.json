@@ -1,0 +1,4 @@
+{
+    "backend_application_url" : "htpps://rds.amazon.com/ap-south-1",
+    "instance_type" : "m5.xlarge"
+}
